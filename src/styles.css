@@ -1,0 +1,9 @@
+.grid {
+  width: 400px;
+  height: 300px;
+  border: solid black 1px;
+}
+
+h3 {
+  color: blueviolet;
+}
